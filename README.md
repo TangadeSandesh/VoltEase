@@ -11,3 +11,6 @@ required.
 
 ![Coils_SS](https://github.com/TangadeSandesh/VoltEase/assets/129480090/f36f74b0-b83a-4f4b-917b-fd2f059ea569)
 
+![Electric-Vehicle-Charging-System](https://github.com/TangadeSandesh/VoltEase/assets/129480090/8075b4e0-49c6-4422-a7d5-ade6e0223469)
+
+
